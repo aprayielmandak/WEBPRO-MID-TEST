@@ -1,0 +1,49 @@
+body {
+    background-color: #171717;
+    color: white;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #D288A2;
+}
+
+.container-content {
+    height: auto;
+}
+
+.container-content .row {
+    height: auto;
+}
+
+.container-content .judul {
+    color: #D288A2;
+}
+
+.container-content .row .col-lg-7 .collapse .card {
+    border: none;
+}
+
+.d-grid button {
+    background-color: #D288A2;
+}
+
+.d-grid button:hover {
+    background-color: #a56279;
+}
+
+footer {
+    background-color: #D288A2;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.footer-about {
+    bottom: 0;
+}
+
+.table {
+    background-color: #D288A2;
+}
